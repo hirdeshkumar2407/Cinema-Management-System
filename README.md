@@ -1,8 +1,9 @@
 # Cinema-Management-System
 
-We made this console application for Object Oriented Programming (OOP) project. We made a seperate admin and customer panel. Admin can add, update, or delete movies and showtimings. Customer can view movies, daily movie schedule, weekly movie schedule, ticket prices and cinema types. This project has OPP concept such as inheritance, polymorphism, and encapsulation.
+We made this Console Application for Object-Oriented Programming (OOP) project by using Java Programming Language. We made a separate admin and customer panel. Admin can add, update, or delete movies and showtimings. Customers can view movies, daily movie schedules, weekly movie schedules, ticket prices, and cinema types. OPP concepts such as inheritance, polymorphism, and encapsulation were implemented.
 
 
 # Authors 
 Elliot Francis Joseph
+
 Hirdesh Kumar
